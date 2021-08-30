@@ -1,0 +1,27 @@
+.DS_Store
+node_modules
+/dist
+local.config.js
+package-lock.json
+yarn-lock.json
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+*debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+/darwin3-web.iml
+*.code-workspace
+.vscode/launch.json
+
+packages/_runtime/

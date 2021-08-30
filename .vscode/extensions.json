@@ -1,0 +1,31 @@
+{
+  // 推荐的
+  "recommendations": [
+    "dzannotti.vscode-babel-coloring",
+    "ms-ceintl.vscode-language-pack-zh-hans",
+    "editorconfig.editorconfig",
+    "dbaeumer.vscode-eslint",
+    "mikebovenlander.formate",
+    "eamodio.gitlens",
+    "vincaslt.highlight-matching-tag",
+    "xabikos.javascriptsnippets",
+    "eg2.vscode-npm-script",
+    "octref.vetur",
+    "hollowtree.vue-snippets",
+    "sdras.vue-vscode-snippets",
+    "oysun.vuehelper",
+    "mikebovenlander.formate",
+    "redjue.git-commit-plugin",
+    "mhutchie.git-graph"
+  ],
+  // 不推荐的
+  "unwantedRecommendations": [
+    "joelday.docthis",
+    "christian-kohler.npm-intellisense",
+    "ormulahendry.auto-close-tag",
+    "christian-kohler.path-intellisense",
+    "abusaidm.html-snippets",
+    "wayou.vscode-todo-highlight",
+    "hookyqr.beautify"
+  ]
+}
